@@ -1,5 +1,3 @@
-RewriteEngine On
-
 <Limit GET HEAD POST>
 order allow,deny
 allow from all
